@@ -1,6 +1,6 @@
 # SurveyPapers4LLM
 
-This repository contains the **survey** and **analytical papers** studying very large language models in various domains.
+This repository contains the **surveys** and **analytical papers** studying very large language models (LLMs) in various domains (All papers are collected before May 24th, 2023).
 
 
 
