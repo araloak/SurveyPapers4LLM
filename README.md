@@ -1,6 +1,6 @@
 # SurveyPapers4LLM
 
-This repository contains the **surveys** and **analytical papers** studying very large language models (LLMs) in various domains (All papers are collected before May 24th, 2023).
+This repository contains the **surveys** and **analytical papers** studying very large language models (LLMs) in various domains (All papers are collected before May 29th, 2023).
 
 
 
@@ -133,3 +133,16 @@ This repository contains the **surveys** and **analytical papers** studying very
 13. **Evaluating ChatGPT's Performance for Multilingual and Emoji-based Hate Speech Detection**.
 
     *[Mithun Das](https://arxiv.org/search/cs?searchtype=author&query=Das%2C+M), [Saurabh Kumar Pandey](https://arxiv.org/search/cs?searchtype=author&query=Pandey%2C+S+K), [Animesh Mukherjee](https://arxiv.org/search/cs?searchtype=author&query=Mukherjee%2C+A)*. [[pdf](https://arxiv.org/pdf/2305.13276)]. 2023.5
+
+14. **Don’t Trust GPT When Your Question Is Not In English**.
+
+    *[Xiang Zhang](https://arxiv.org/search/cs?searchtype=author&query=Zhang%2C+X), [Senyu Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+S), [Bradley Hauer](https://arxiv.org/search/cs?searchtype=author&query=Hauer%2C+B), [Ning Shi](https://arxiv.org/search/cs?searchtype=author&query=Shi%2C+N), [Grzegorz Kondrak](https://arxiv.org/search/cs?searchtype=author&query=Kondrak%2C+G)*. [[pdf](https://arxiv.org/abs/2305.16339)]. 2023.5
+
+15. **Self-contradictory Hallucinations of Large Language Models Evaluation, Detection and Mitigation**.
+
+    *[Niels Mündler](http://export.arxiv.org/find/cs/1/au:+Mundler_N/0/1/0/all/0/1), [Jingxuan He](http://export.arxiv.org/find/cs/1/au:+He_J/0/1/0/all/0/1), [Slobodan Jenko](http://export.arxiv.org/find/cs/1/au:+Jenko_S/0/1/0/all/0/1), [Martin Vechev](http://export.arxiv.org/find/cs/1/au:+Vechev_M/0/1/0/all/0/1)*. [[pdf](http://export.arxiv.org/abs/2305.15852v1)]. 2023.5
+
+16. **Emergence of a phonological bias in ChatGPT**.
+
+    *[Juan Manuel Toro](https://arxiv.org/search/cs?searchtype=author&query=Toro%2C+J+M)*. [[pdf](https://arxiv.org/abs/2305.15929)]. 2023.5
+
