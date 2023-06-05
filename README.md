@@ -1,6 +1,6 @@
 # SurveyPapers4LLM
 
-This repository contains the **surveys** and **analytical papers** studying very large language models (LLMs) in various domains (All papers are collected before May 29th, 2023).
+This repository contains the **surveys** and **analytical papers** studying very large language models (LLMs) in various domains (All papers are collected before June 6th, 2023).
 
 
 
@@ -145,4 +145,12 @@ This repository contains the **surveys** and **analytical papers** studying very
 16. **Emergence of a phonological bias in ChatGPT**.
 
     *[Juan Manuel Toro](https://arxiv.org/search/cs?searchtype=author&query=Toro%2C+J+M)*. [[pdf](https://arxiv.org/abs/2305.15929)]. 2023.5
+    
+17. **ChatGPT an ENFJ, Bard an ISTJ: Empirical Study on Personalities of Large Language Models**.
+
+   *[Jen-tse Huang](https://arxiv.org/search/cs?searchtype=author&query=Huang%2C+J), [Wenxuan Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+W), [Man Ho Lam](https://arxiv.org/search/cs?searchtype=author&query=Lam%2C+M+H), [Eric John Li](https://arxiv.org/search/cs?searchtype=author&query=Li%2C+E+J), [Wenxiang Jiao](https://arxiv.org/search/cs?searchtype=author&query=Jiao%2C+W), [Michael R. Lyu](https://arxiv.org/search/cs?searchtype=author&query=Lyu%2C+M+R)*. [[pdf](https://arxiv.org/pdf/2305.19926)]. 2023.5
+
+18. **Exploring Lottery Prompts for Pre-trained Language Models**.
+
+   *[Yulin Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen%2C+Y), [Ning Ding](https://arxiv.org/search/cs?searchtype=author&query=Ding%2C+N), [Xiaobin Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+X), [Shengding Hu](https://arxiv.org/search/cs?searchtype=author&query=Hu%2C+S), [Hai-Tao Zheng](https://arxiv.org/search/cs?searchtype=author&query=Zheng%2C+H), [Zhiyuan Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+Z), [Pengjun Xie](https://arxiv.org/search/cs?searchtype=author&query=Xie%2C+P)*. [[pdf](https://arxiv.org/pdf/2305.19500)]. 2023.6
 
