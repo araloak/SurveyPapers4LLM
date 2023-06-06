@@ -153,4 +153,12 @@ This repository contains the **surveys** and **analytical papers** studying very
 18. **Exploring Lottery Prompts for Pre-trained Language Models**.
 
    *[Yulin Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen%2C+Y), [Ning Ding](https://arxiv.org/search/cs?searchtype=author&query=Ding%2C+N), [Xiaobin Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+X), [Shengding Hu](https://arxiv.org/search/cs?searchtype=author&query=Hu%2C+S), [Hai-Tao Zheng](https://arxiv.org/search/cs?searchtype=author&query=Zheng%2C+H), [Zhiyuan Liu](https://arxiv.org/search/cs?searchtype=author&query=Liu%2C+Z), [Pengjun Xie](https://arxiv.org/search/cs?searchtype=author&query=Xie%2C+P)*. [[pdf](https://arxiv.org/pdf/2305.19500)]. 2023.6
+   
+19. **Is ChatGPT a Good Teacher Coach? Measuring Zero-Shot Performance For Scoring and Providing Actionable Insights on Classroom Instruction**.
+
+    *[Rose E. Wang](https://arxiv.org/search/cs?searchtype=author&query=Wang%2C+R+E), [Dorottya Demszky](https://arxiv.org/search/cs?searchtype=author&query=Demszky%2C+D)*. [[pdf](https://arxiv.org/pdf/2306.03090)]. 2023.6
+
+20. **Taught by the Internet, Exploring Bias in OpenAIs GPT3**.
+
+    *[Ali Ayaz](https://arxiv.org/search/cs?searchtype=author&query=Ayaz%2C+A), [Aditya Nawalgaria](https://arxiv.org/search/cs?searchtype=author&query=Nawalgaria%2C+A), [Ruilian Yin](https://arxiv.org/search/cs?searchtype=author&query=Yin%2C+R)*. [[pdf](https://arxiv.org/pdf/2306.02428)]. 2023.6
 
